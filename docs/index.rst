@@ -17,11 +17,11 @@ LUX can be installed from either `PyPI <https://pypi.org/project/wpdm>`_ or dire
 
 To install form PyPI::
 
-   pip install wpdm
+   pip install milosz7wpdm
 
 To install from source code::
 
-   git clone https://github.com/sbobek/wpdm
+   git clone https://github.com/milosz7/wpdm
    cd wpdm
    pip install .
 
