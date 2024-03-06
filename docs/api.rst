@@ -1,4 +1,4 @@
-.. currentmodule:: wpdm
+.. currentmodule:: milosz7wpdm
 
 API Reference
 =============
@@ -22,4 +22,5 @@ Utils
     :toctree: generated/
 
     utils.foo
+    utils.bar
 
